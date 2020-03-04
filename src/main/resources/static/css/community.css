@@ -1,0 +1,146 @@
+.main {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+}
+
+body {
+    background-color: #efefef;
+}
+
+.btn-publish {
+    float: right;
+    margin-bottom: 15px;
+}
+
+.media-object {
+    width: 50px;
+    height: 50px;
+}
+
+.media-body {
+    padding-top: 18px;
+}
+
+.text-desc {
+    font-size: 12px;
+    font-weight: normal;
+    color: #999;
+}
+
+/*
+这一项当时在profile.html文件中没有生效，于是在文件中style中添加效果
+.profile .section {
+    margin-top: 15px;
+}
+*/
+.community-menu {
+    color: #999;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.jumbotron {
+    margin: 50px;
+}
+
+.comment {
+    margin: 10px 0 10px 0;
+}
+
+.btn-comment {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.comment-sp {
+    margin-top: 0;
+}
+
+.menu1 {
+    color: #999999;
+    margin-top: 6px;
+}
+
+.menu1 .icon {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.menu1 .active {
+    color: #499ef3;
+}
+
+.menu1 .icon:hover {
+    color: #499ef3;
+}
+
+.menu1 .comment-icon {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.menu1 .comment-icon:hover {
+    color: #499ef3;
+}
+
+.comments {
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.sub-comments {
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eee;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+
+.sub-comments .btn {
+    margin: 7px 0;
+}
+
+.question-title {
+    margin-top: 25px;
+}
+
+.index-question-title {
+    margin-top: -7px;
+}
+
+.index-question-last {
+    margin-top: 3px;
+    margin-bottom: -1px;
+}
+
+.two-comment-time{
+    color: #999999;
+}
+
+.question-tag{
+    margin-right: 3px;
+}
+
+.question-related{
+    padding-left: 3px;
+    list-style: none;
+    line-height: 25px;
+}
+
+.y-line{
+    border-right: 1px solid #eee;
+}
+
+.publish-tag-tab{
+    display: none;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+.footer{
+    padding:10px 40%;
+    color: #666;
+}
